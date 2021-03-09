@@ -1,3 +1,0 @@
-org.coursera.metrics.datadog.DynamicTagsCallbackFactory
-org.coursera.metrics.datadog.MetricNameFormatterFactory
-org.coursera.metrics.datadog.transport.AbstractTransportFactory

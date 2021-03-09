@@ -1,6 +1,50 @@
-.classpath
-.project
-.settings
-target
-.idea
+# Operating System Ignores
+.DS_Store
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+$RECYCLE.BIN
+Icon
+*.swp
+.tags*
+
+# Development Environment Ignores
+*~
+\#*\#
+.\#*
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+nohup.out
+/.idea
 *.iml
+*.sublime-workspace
+*.sublime-project
+tags
+TAGS
+
+# Java Ignores
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+
+# Gradle Ignores
+.gradle
+build/
+!src/**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
